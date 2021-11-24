@@ -1,3 +1,5 @@
+url: "https://www.bigbootybishops.com"
+
 collections:
   authors:
     output: true
@@ -29,7 +31,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-url: "C:\\Users\\ryanp\\Desktop\\_coding\\Ruby\\Jekyll\\root\\"
 
-baseurl: "bigbootybishops"
+
+#url: "C:\\Users\\ryanp\\Desktop\\_coding\\Ruby\\Jekyll\\root\\"
+#baseurl: ""
+
+# baseurl: "bigbootybishops"
+
+
 
