@@ -1,0 +1,294 @@
+---
+---
+@import "main";
+
+
+.container {
+  // font-family: arial;
+  // font-size: 24px;
+  // margin: 25px;
+  // width: 900px;
+  // height: 200px;
+  margin: auto;
+  width: 60%;
+  //outline: dashed 1px black;
+}
+
+.volo {
+  width: 35%;
+}
+
+
+p {
+  /* Center horizontally*/
+  // width: 350px;
+  // height: 200px;
+  //text-align: center;
+}
+
+h2 {
+  color: whitesmoke;
+  font-family: 'Kaisei Tokumin';
+  font-weight: 400;
+  left: 35%;
+  font-size: 28px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.h2 {
+  color: whitesmoke;
+  font-family: 'Kaisei Tokumin';
+  font-weight: 400;
+  left: 35%;
+  font-size: 28px;
+  text-decoration: none;
+  text-align: center;
+}
+
+#p6 {
+  color: white;
+  font-family: 'Lexend';
+  text-align: center;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+//===============================================================================================================================================
+// Search bar
+
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+	box-sizing: border-box;
+	font-family: 'Lexend', cursive;
+}
+
+.wrapper{
+	  margin: auto;
+    //transform: translate(-50%, -50%);
+    background: rgba(0, 0, 0,0.6);
+    max-width: 400px;
+    width: 50%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5px;
+}
+
+.wrapper .input {
+    width: 85%;
+    padding: 7px 11px;
+    border: none;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.searchbtn {
+    background: gold;
+    width: 10%;
+    border-radius: 5px;
+    position: relative;
+    cursor: pointer;
+}
+
+.searchbtn .fas{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+
+//===============================================================================================================================================
+
+left {
+  text-align: left;
+}
+
+
+// p4 {
+//   padding-top: 5px;
+//   //padding-bottom: 10px;
+//   color: whitesmoke;
+//   font-family: 'Lexend';
+//   //text-align: justify;
+//   font-size: 15px;
+//   font-weight: 200;
+// }
+
+.p4 {
+  padding-top: 5px;
+  //padding-bottom: 10px;
+  color: whitesmoke;
+  font-family: 'Lexend';
+  //text-align: justify;
+  font-size: 15px;
+  font-weight: 200;
+}
+
+//======================================
+
+// TABLES
+
+table {
+  //border: 1px solid black;
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td {
+  padding: 5px;
+}
+
+tr:last-child {   
+  border-bottom: none;
+}
+
+td:first-child {
+  border-left: none;
+  border-bottom: none;
+}
+td:last-child {
+  border-right: none;
+  border-bottom: none;
+}
+
+.td1 {
+  //border: 1px solid rgb(6, 33, 34);
+  width: 180px;
+  text-align: left;
+  color :gold;
+  font-weight: 300;
+}
+
+.td1_dead {
+  //border: 1px solid rgb(6, 33, 34);
+  width: 180px;
+  text-align: left;
+  color :red;
+  font-weight: 300;
+}
+
+.td2 {
+  //
+  //border: 1px solid rgb(6, 33, 34);
+  width: 100%;
+  text-align: justify;
+  //overflow: hidden;
+}
+
+
+// =============================================================================
+// For the Quest Log
+// =============================================================================
+
+
+.wrapperQuest{
+  margin: auto;
+  //transform: translate(-50%, -50%);
+  background: rgba(3, 27, 25, 0.01);
+  width: 80%;
+  padding: 10px;
+  display: block;
+  border-radius: 5px;
+}
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  //background-color: rgba(218, 168, 32, 0.8);
+  //background-color: rgba(35, 105, 96, 0.85);
+  //background-color: rgba(5, 47, 53, 0.74);
+  background-color: rgba(2, 20, 30, 0.55);
+  cursor: pointer;
+  padding: 14px;
+  width: 100%;
+  color: white;
+  //border: none;
+  border-left: 1px solid rgba(231, 198, 9, 0.5);
+  border-right: 1px solid rgba(231, 198, 9, 0.5);
+  border-top: none;
+  border-bottom: none;
+  //border: 1px solid goldenrod;
+  text-align: left;
+  vertical-align: center;
+  font-size: 16px;
+  font-weight: 300;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: rgba(218, 168, 32, 0.8);
+  color: black;
+  font-weight: 300;
+}
+
+.collapsible:after {
+  content: '\002B'; /* Unicode character for "plus" sign (+) */
+  font-size: 18px;
+  color: white;
+  float: right;
+  margin-left: 5px;
+}
+
+.active:after {
+  content: "\2212"; /* Unicode character for "minus" sign (-) */
+  color: black;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  text-align: justify;
+  padding: 0 15px;
+  background-color: rgba(3, 27, 25, 0.85);
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+ }
+
+ .innerContent {
+  font-family: 'Lexend';
+  font-size: 15px;
+  font-weight: 200;
+  padding: 15px;
+  color: white;
+  font-style: italic;
+ }
+
+// For the lists;
+
+.listGold {
+  color: rgb(223, 182, 0);
+  font-style: normal;
+  padding: 3px 0px;  // spaces out the list.
+}
+
+// =============================================================================
+// For Tunes
+// =============================================================================
+
+.psong {
+  color: gold;
+  font-family: 'Lexend';
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.p3 {
+  padding-top: 15px;
+  color: gold;
+  // font-family: 'Lexend';
+  font-family: 'Kaisei Tokumin';
+  text-align: center;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: italic;
+
+}

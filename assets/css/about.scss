@@ -1,0 +1,84 @@
+---
+---
+@import "main";
+
+#aboutgroup {
+
+  title_test {
+
+    margin-top: 242px;
+    color: whitesmoke;
+    font-family: 'Kaisei Tokumin';
+    font-weight: 400;
+    left: 20%;
+    font-size: 28px;
+    text-decoration: none;
+    text-align: center;
+  
+  }
+
+  p3 {
+    padding-top: 15px;
+    color: gold;
+    // font-family: 'Lexend';
+    font-family: 'Kaisei Tokumin';
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    font-style: italic;
+
+  }
+
+  p4 {
+    padding-top: 15px;
+    color: whitesmoke;
+    font-family: 'Lexend';
+    text-align: justify;
+    font-size: 15px;
+    font-weight: 200;
+  }
+
+}
+
+
+//////////////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+.about {
+  text-align: center;
+  word-wrap: break-word;  
+  position: relative;
+  margin: auto;
+  width: 45%;
+}
+
+img[src*='#deets']  {
+  width: 200px;
+  text-align: center;
+}
+
+// Portraits for About
+
+.miniportrait {
+  width: 70px;
+  height: 70px;
+  //display: inline-block;
+  margin: 15px;
+  padding: 0px;
+}
+
+.minigroup {
+  //border: 1px dashed black;
+  //display: inline-block;
+  text-align: center;
+  width: 45%;
+  position: relative;
+  margin: auto;
+  // overflow-y: hidden;
+  // overflow-x: auto;
+  // word-wrap: normal;
+  // white-space: nowrap;
+}
+

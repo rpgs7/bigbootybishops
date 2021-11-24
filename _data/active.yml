@@ -1,0 +1,27 @@
+- name: Safeguarding the Stone
+  description: With the Bensarean Stone now in the vault of The Harpers in Silverymoon....studied library found thangs
+  learned:
+  - note: High Forest time
+  - note: Weeee
+
+- name: Bits and Bobs
+  description: Little niggles still not ironed out...
+  learned:
+  - note: We really should get that cipher book back to Xoblob...
+  - note: The Gagging Frog isn't going to run itself!
+  - note: Glitter (Tiefling) and Gorba (Dragonborn) ran off when we were at the Harvest festival. Glitter had already agreed a fee to bring him safely to Waterdeep for 500g - he mentioned he was a member of the Jeweller's Guild in Waterdeep...
+
+- name: A Talking Mayor?
+  description: Maxime! She is no longer with us, and the trail has gone somewhat cold with only one lead remaining - Pierce.
+
+- name: The Black Viper
+  description: The return of the notorious thief or a copycat?
+  learned:
+  - note: Hello! We learned the thief likes to steal from houses using the window.
+  - note: We also learned that...
+
+- name: The Jackpot
+  description: It is known that the former Open Lord of Waterdeep stole 500,000g. What is not known is where he (Lord Neverember) and the gold is now...
+  learned:
+  - note: Hello! We learned the thief likes to steal from houses using the window.
+  - note: We also learned that...

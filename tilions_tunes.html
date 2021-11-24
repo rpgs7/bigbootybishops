@@ -1,0 +1,30 @@
+---
+title: Tilíon's Tunes
+layout: other
+---
+<div class = "pageTitle">
+  <h1>{{ "Tilíon's Tunes" }}</h1>
+  <br></br>
+  <br></br>
+</div>
+
+<div class = "container">
+  <div id = "p6">All the smash hits from the Bishops' famous Bard!</div>
+  <br></br>
+  <br></br>
+  <br></br>
+
+  <div>
+  {% for song in site.songs %}
+    <div class = "h2">{{ song.name }}</div>
+    <div class = "psong">{{ song.truesong }}</div>
+    <br>
+    <div style="text-align:center" class = "p4">{{ song.content | markdownify | newline_to_br  }}</div>
+    <br></br>
+  {% endfor %}
+  </div>
+
+</div>
+
+<body></body>
+

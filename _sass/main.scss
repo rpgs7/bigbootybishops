@@ -1,0 +1,124 @@
+html {
+  overflow-y: scroll;
+}
+
+.pageTitle {
+  display: block;
+}
+
+h1 {
+  color: white;
+  font-family: 'Kaisei Tokumin';
+  font-weight: 400;
+  text-align: center;
+  font-size: 48px;
+  padding-top: 150px;
+  // These were adding a margin (0.67) based on browser user agent stylesheet; overriding:
+  margin-block-start: 0.0em;
+  margin-block-end: 0.0em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
+body {
+  // background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('/assets/images/BBB_travel.jpg');
+  background: url('/assets/images/BBB_travel_3.jpg');
+  background-size: 100%;
+  background-position-x: center;
+  background-position-y: top;
+  background-repeat: no-repeat;
+  background-color: rgb(30, 59, 57);
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+
+.current {
+
+  color: whitesmoke;
+  font-size: 16px;
+  font-family: 'Lexend';
+  font-weight: 400;
+  transition: color 500ms;
+  text-align: center;
+  text-decoration: none;
+  margin: 15px;
+  
+}
+
+.current:hover {
+
+  color: gold;
+
+}
+
+.next_session {
+
+  position: fixed;
+  z-index: 999999;
+  text-align: left;
+  color: gold;
+  font-size: 12px;
+  font-family: 'Lexend';
+  font-weight: 200;
+  margin-top: 15px;
+  margin-left: 35px;
+}
+
+.navbar {
+
+  z-index: 99900;
+  position: fixed;
+  top: 0;
+  border-bottom: 1px solid rgba(231, 198, 9, 0.5);
+  width: 100%;
+  background: linear-gradient(rgba(5, 47, 53, 0.74), rgba(5, 47, 53, 0.74));
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: 12px;
+
+}
+
+.navbar a {
+
+  text-align: center;
+  color: white;
+  text-decoration: none;
+
+ }
+
+ .btn-group {
+  display: inline-block;
+  z-index: 999950;
+  position: fixed;
+  margin-top: 6px;
+  margin-left: 90%;
+  width: 130px;
+  height: 45px;
+}
+  // position: absolute;
+  // left: 92%;
+  // top: 0.65%;
+
+.discord {
+  width: 35px;  
+  height: 35px; 
+}
+
+.sheets {
+  width: 35px;  
+  height: 35px; 
+}
+
+.discord {
+  width: 35px;  
+  height: 35px; 
+}
+
+.lute {
+  width: 30px;  
+  height: 30px; 
+}
+
+

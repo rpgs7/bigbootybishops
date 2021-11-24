@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+  <head>
+    <link href="https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&family=Lexend:wght@100;200;300;400;500&display=swap" rel="stylesheet">
+    <style>
+    </style>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/about.css">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+
+    <div class="next_session">
+      Next session: {{ site.data.next.session }}
+    </div>
+    
+    <div class="btn-group">
+      <!-- Buttons -->
+      <a href="/tilions_tunes.html">
+        <img src="/assets/images/lute_logo2.png" alt="" class = "lute">
+      </a>
+      <a href="https://docs.google.com/spreadsheets/d/1U-9lKWGbEa25Za5t07LubTRYTQIRHWQXie_nkv_JgL8/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <img src="/assets/images/sheets.png" alt="" class = "sheets">
+      </a>
+      <img src="/assets/images/discord.png" alt="" class = "discord">
+    </div>
+    
+    {% include navigation.html %}
+    <style>
+    </style>
+    {{ content }}
+  </body>
+</html>

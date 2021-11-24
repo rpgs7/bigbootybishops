@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Adventures
+  link: /adventures.html
+- name: Quest Log
+  link: /quest_log.html
+- name: Notable Folk
+  link: /notable_folk.html
+- name: Have Booty, Will Travel
+  link: /travel.html

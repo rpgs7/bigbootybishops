@@ -1,0 +1,28 @@
+---
+title: Adventures
+layout: other
+---
+<div class = "pageTitle">
+  <h1>{{ "Adventures" }}</h1>
+  <br></br>
+  <br></br>
+</div>
+
+<div class = "container">
+  <div id = "p6">All the tales of the Bishops, embellished or otherwise! Maybe we'll get a chance to write these if we ever get back to Trollskull Manor...</div>
+  <br></br>
+  <br></br>
+  <br></br>
+
+  <div>
+  {% for adventure in site.adventures %}
+    <div style="text-align:left" class = "h2">{{ adventure.name }}</h2>
+    <div style="text-align:left" class = "p3">{{ adventure.dater }}</div>
+    <div style="text-align:justify" class = "p4">{{ adventure.content | markdownify | newline_to_br  }}</div>
+    <br></br>
+  {% endfor %}
+  </div>
+
+</div>
+
+<body></body>

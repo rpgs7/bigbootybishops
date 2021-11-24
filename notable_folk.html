@@ -1,0 +1,45 @@
+---
+layout: other
+title: Notable Folk
+---
+<div class = "pageTitle">
+  <h1>Notable Folk</h1>
+  <br></br>
+  <h2><img src="/assets/images/volo.jpg" alt="" class = "volo"></h2>
+  <br></br>
+  <div id = "p6">
+    A list of notable folk we've met on our travels, divvied up by area.
+  </div>
+  <br></br>
+</div>
+
+<div class = "container">
+
+  <div class="wrapper">
+    <input type="text" id = "input" class = "input" placeholder="Who are you looking for?" onkeypress="Javascript: if (event.keyCode==13) searchWithin(document.getElementById('input').value)">
+    <div class="searchbtn" onclick = "searchWithin(document.getElementById('input').value)"><i class="fas fa-search"></i></div>
+    <script>
+      function searchWithin(text)
+      {
+        window.find(text);
+        //customReset();   ## ! ## customReset stops the enter of onchange from working
+      }
+
+      function customReset()
+      {
+        document.getElementById("input").value = "";
+      }
+
+    </script>
+  
+  </div>
+  <br></br>
+
+  {% for area in site.areas %}
+    <h2>{{ area.name }}</h2><br>
+    {{ area.content }}
+  {% endfor %}
+
+</div>
+
+

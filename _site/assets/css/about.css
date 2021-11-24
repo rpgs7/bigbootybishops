@@ -1,0 +1,43 @@
+html { overflow-y: scroll; }
+
+.pageTitle { display: block; }
+
+h1 { color: white; font-family: 'Kaisei Tokumin'; font-weight: 400; text-align: center; font-size: 48px; padding-top: 150px; margin-block-start: 0.0em; margin-block-end: 0.0em; margin-inline-start: 0px; margin-inline-end: 0px; }
+
+body { background: url("/assets/images/BBB_travel_3.jpg"); background-size: 100%; background-position-x: center; background-position-y: top; background-repeat: no-repeat; background-color: #1e3b39; height: 100%; width: 100%; margin: 0; }
+
+.current { color: whitesmoke; font-size: 16px; font-family: 'Lexend'; font-weight: 400; transition: color 500ms; text-align: center; text-decoration: none; margin: 15px; }
+
+.current:hover { color: gold; }
+
+.next_session { position: fixed; z-index: 999999; text-align: left; color: gold; font-size: 12px; font-family: 'Lexend'; font-weight: 200; margin-top: 15px; margin-left: 35px; }
+
+.navbar { z-index: 99900; position: fixed; top: 0; border-bottom: 1px solid rgba(231, 198, 9, 0.5); width: 100%; background: linear-gradient(rgba(5, 47, 53, 0.74), rgba(5, 47, 53, 0.74)); text-align: center; padding-top: 12px; padding-bottom: 12px; }
+
+.navbar a { text-align: center; color: white; text-decoration: none; }
+
+.btn-group { display: inline-block; z-index: 999950; position: fixed; margin-top: 6px; margin-left: 90%; width: 130px; height: 45px; }
+
+.discord { width: 35px; height: 35px; }
+
+.sheets { width: 35px; height: 35px; }
+
+.discord { width: 35px; height: 35px; }
+
+.lute { width: 30px; height: 30px; }
+
+#aboutgroup title_test { margin-top: 242px; color: whitesmoke; font-family: 'Kaisei Tokumin'; font-weight: 400; left: 20%; font-size: 28px; text-decoration: none; text-align: center; }
+
+#aboutgroup p3 { padding-top: 15px; color: gold; font-family: 'Kaisei Tokumin'; text-align: center; font-size: 16px; font-weight: 300; font-style: italic; }
+
+#aboutgroup p4 { padding-top: 15px; color: whitesmoke; font-family: 'Lexend'; text-align: justify; font-size: 15px; font-weight: 200; }
+
+.about { text-align: center; word-wrap: break-word; position: relative; margin: auto; width: 45%; }
+
+img[src*='#deets'] { width: 200px; text-align: center; }
+
+.miniportrait { width: 70px; height: 70px; margin: 15px; padding: 0px; }
+
+.minigroup { text-align: center; width: 45%; position: relative; margin: auto; }
+
+/*# sourceMappingURL=about.css.map */

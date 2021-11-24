@@ -1,0 +1,181 @@
+---
+---
+@import "main";
+
+h2 {
+  color: whitesmoke;
+  font-family: 'Kaisei Tokumin';
+  font-weight: 400;
+  left: 35%;
+  font-size: 28px;
+  text-decoration: none;
+}
+
+p {
+  color: white;
+  font-family: 'Lexend';
+  text-align: center;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+p2 {
+  padding-top: 15px;
+  color: white;
+  font-family: 'Lexend';
+  text-align: left;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+
+.loader-wrapper {
+  z-index: 999999;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgb(21, 43, 41);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bbblogo {
+  //border: 1px dashed black;
+  width: 180px;
+  height: 180px;
+}
+
+.outerCircle {
+  z-index: 99999;
+  height: 163px;
+  width: 163px;
+  background-color: rgba(0, 0, 0, 0);
+  border: solid 9px white;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flash1 {
+  position: absolute;
+  opacity: 0%;
+  box-shadow: 0px 0px 1px 1px gold;
+  left: 27%;
+  top: 15.1%;
+  width: 75px;
+  height: 60px;
+  background-color: gold;
+  border-radius: 50%;
+  
+  animation: fadeinout2 0.5s infinite ease;
+  animation-iteration-count: 1;
+  animation-delay: 3s;
+}
+.flash2 {
+  position: absolute;
+  opacity: 0%;
+  box-shadow: 0px 0px 1px 1px gold;
+  left: 30.3%;
+  top: 33.2%;
+  width: 60px;
+  height: 50px;
+  background-color: gold;
+  border-radius: 50%;
+
+  animation: fadeinout2 0.5s infinite ease;
+  animation-iteration-count: 1;
+  animation-delay: 3.3s;
+}
+.flash3 {
+  position: absolute;
+  opacity: 0%;
+  box-shadow: 0px 0px 1px 1px gold;
+  left: 27%;
+  top: 46.6%;
+  width: 75px;
+  height: 60px;
+  background-color: gold;
+  border-radius: 50%;
+
+  animation: fadeinout2 0.5s infinite ease;
+  animation-iteration-count: 1;
+  animation-delay: 3.6s;
+}
+
+
+
+.loader {
+  position: fixed;
+  animation: loader 3s infinite ease;
+  animation-iteration-count: 1;
+}
+
+@keyframes loader {
+  100% { transform: rotate(360deg);}
+}
+
+
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+
+#quotes {
+  text-align: center;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+#quotes-content {
+
+  // intial opacity:
+  //opacity: 0;
+
+  z-index: 999999;
+  padding: 5px;
+
+  align-items: center;
+  position: absolute;
+  bottom: 10%;
+  text-align: center;
+
+  padding-top: 25px;
+  padding-bottom: 50px;
+
+  width: 75%;
+
+  /* text */
+  color: whitesmoke;
+  font-family: 'Kaisei Tokumin';
+  font-weight: 400;
+  font-size: 20px;
+  font-style: italic;
+
+}
+  // var(--flickertime) ?
+
+//   opacity: 1;
+//   -webkit-animation: fadeinout 6000ms linear;
+//   animation: fadeinout 6000ms linear;
+//   animation-iteration-count: infinite;
+
+// }
+
+
+@keyframes fadeinout {
+  0%,5%,95%,100% { opacity: 0; }
+  35%,50%,65% { opacity: 1; }
+}
+
+@keyframes fadeinout2 {
+  0%,100% { opacity: 0; }
+  50% { opacity: 1; }
+}
+
+

@@ -1,0 +1,35 @@
+collections:
+  authors:
+    output: true
+  areas:
+    output: true
+  songs:
+    output: true
+  adventures:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+url: "C:\\Users\\ryanp\\Desktop\\_coding\\Ruby\\Jekyll\\root\\"
+
+baseurl: "http://www.bigbootybishops.com"
+
