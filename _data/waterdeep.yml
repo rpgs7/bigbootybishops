@@ -1,3 +1,5 @@
+# Complete!
+
 - name: Durnan
   description: Former adventurer that owns The Yawning Portal. 
 
@@ -10,6 +12,9 @@
 - name: Olaf
   description: My old best friend. I grew up with him when I got to Waterdeep. We always said we'd never join the Xanathar's guild; that they were a step too far. And yet he has, citing his mothers illness whilst threatening us to get out of town.
 
+- name: Brian
+  description: The Swordmaster's Smithy! A good man with good blades and armour at good prices. Brian is just jolly good.
+
 - name: Xoblob
   description: An old little chap with an odd little store. Got us a book on ciphers we need to return, and a petrified mouse that just won't quit.
 
@@ -20,7 +25,7 @@
   description: A talking mare! Not a mayor! By the time we realised this, it was perhaps too late. The Harpers wanted us to find out the intel that Maxime knew about a Zhentarim agent, named the Red Wizard?
 
 - name: Jakob Helmfoot
-  description: Poor wee bastard that Jonathan terrorised, likely leading us to leave Waterdeep to lay low.
+  description: Poor wee bastard that Barra's...alter ego...terrorised, likely leading us to leave Waterdeep to lay low.
 
 - name: Pierce
   description: Our last lead in the case of the talking mare, he worked for Jakob and was noted to be with Maxime when she never returned...
@@ -35,7 +40,10 @@
   description: Half orc lady that has been rubbed the wrong way with the Xanathar's Guild. Helped us with a lead to finding where the Xanathar's took Fluhne - the sewers!
 
 - name: Jallister
-  description: Friend of Yaggra, a handsome chap 
+  description: Friend of Yaggra, a handsome chap.
+
+- name: Simon
+  description: Door.
 
 - name: Dorren
   description: Interior decorator who did a stand up job of Trollskull manor!
@@ -50,12 +58,10 @@
   description: Tinker? Tailor? Sailor? Spy?
 
 - name: Balthazar
-  description: Creepy old fella, long fingernails and ________
+  description: Creepy old fella, long fingernails and looks like a mystic. Offered us 20,000g for the stone - but wouldn't say why he wanted it...
 
 - name: Joran Newmont
   description: Supposedly could have work for us in Waterdeep, so says the unscrupulous mayor of Triboar...
-
-
 
 - name: Jonathan
   description: Devil man. Creator of chaos and the end times. Badness. Misery. OH NO.

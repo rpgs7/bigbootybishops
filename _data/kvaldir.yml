@@ -1,11 +1,13 @@
+# Complete!
+
 - name: Walter Stonefist
-  description: Dwarven chap; victim of the Kobold caravan attack.
+  description: Dwarven chap; victim of the caravan attack from the gnolls.
 
 - name: Indra Dahi
-  description: Human, victim of the Kobold caravan attack who told us of the missing wife that we set out to save.
+  description: Human, victim of the gnoll caravan attack who told us of the missing wife that we set out to save.
 
 - name: Serena 
-  description: Half-elf who was kidnapped by the Kobolds, wife of Indra. After we saved her and helped them to Triboar, she introduced us to a friend who ran the potion shop.
+  description: Half-elf who was kidnapped by the gnolls, wife of Indra. After we saved her and helped them to Triboar, she introduced us to a friend who ran the potion shop.
 
 - name: Xandra
   description: Triboar potion saleslady, of "Potions Galore". Likely get a wee discount if we pass by in future for saving her friend!
@@ -31,17 +33,29 @@
 - name: Hilde
   description: Ruled in Kvaldir alongside the Jarl before his death, now she alone has taken lead. She pointed us in the right direction in finding Feywind to help guard the stone.
 
+- name: Touri Bethend
+  description: Apprentice of Volo, she was originally sent to Kvaldir to investigate spirits north of the town, before being captured and bitten by the werewolves. We managed to get her to Gilneer in time to be saved from the werewolf curse. She was also the one to identify the Bensarean Stone.
+
 - name: Magdalene [DECEASED]
   description: Seemingly a paladin of Torm who arrived at the Bug and Barley Inn a couple days after us, thankfully we didn't take her along with us - when we encountered the second hag, Magdalenes dead body was there, and had been there for a long while...
 
 - name: Negrim
   description: A dwarf that resides in Inaris Peak, seems to have lost his mind as he feels he is the leader of many followers who he gestured to; yet no one was there.
 
+- name: Inaris
+  description: Ummmm...wind? We freed Inaris, who we believed to be a giant, by killing the hags. But the giant was...wind? Some of us managed to talk to...her? Him? It? That whole adventure was a mindfuck, a glorious one!
+
 - name: Ordnar
-  description: Son of the Jarl and Hilde, who Chomsky followed to find the Bensarean Stone, discovering how the whole incident kicked off and learning about the Corners of the Circle. Now a pen pal!
+  description: Son of the Jarl and Hilde, who I followed to find the Bensarean Stone, discovering how the whole incident kicked off and learning about the Corners of the Circle. Now a pen pal!
 
 - name: Tamarond
   description: Half-elf lady who is the ringleader of The Velvet Circus, and keen to perform at The Gagging Frog!
+  
+- name: Balor
+  description: Proprietor of The Pewter Cup Inn, located in Triboar.
 
-- name: Touri Bethend
-  description: Apprentice of Volo, she was originally sent to Kvaldir to investigate spirits north of the town, before being captured and bitten by the werewolves. We managed to get her to Gilneer in time to be saved from the werewolf curse. She was also the one to identify the Bensarean Stone.
+- name: George
+  description: A friendly gnome with a gambling past looking to pay his debts. Was putting up wanted posters for the Sharphorn brothers.
+
+- name: Lord Dumont
+  description: Mayor of Triboar who paid us for the quest we completed with George.

@@ -1,15 +1,16 @@
 # Newest to Oldest
+# Unfinished
 - name: The Bensarean Stone
   description: After dealing with the threat in Kvaldir, we came across a magical stone that likely ignited Kvaldir's woes and would then become our biggest woe...
   learned:
-  - note: During the Kvaldir celebrations, Chomsky noticed a young dwarf acting suspicious and tailed him. He turned out to be Ordner, Lodar's (Kvaldir's fallen ruler) son.
-  - note: In following him to Lodar's study, Chomsky discovered the stone, once protected by a magical material that Ordner accidentally broke, which co-incided with the adverse events.
+  - note: During the Kvaldir celebrations, Chomsky noticed a young dwarf acting suspicious and tailed him. He turned out to be Ordnar, Lodar's (Kvaldir's fallen ruler) son.
+  - note: In following him to Lodar's study, Chomsky discovered the stone, once protected by a magical material that Ordnar accidentally broke, which co-incided with the adverse events.
   - note: Corners of the Circle were a group that formerly protected the stone, and Feywind was one of its members. Protected mainly against an evil group named The Night Parade.
   - note: We opted to take the stone to safeguard it, uncertain of where to take the stone. Touri identified the stone as one that allows opening gates to other planes, and is easily tracable without its protective barrier - almost acting like a beacon.
   - note: Upon returning to Waterdeep, a strange figure, Balthazar, visited Trollskull Manor.
   - note: Balthazar wanted to purchase the stone from us, willing to pay 20,000g. He gave off a bad vibe and wouldn't say what he planned to do with the stone.
-  - note: We tried to find Mirt from the Harpers to discuss what to do, to no avail. Around the same time, Chomsky received a package from Ordner, in which there was a journal belonging to Feywind.
-  - note: The journal contained a spell which Hilde (Ordner's mother) believed may lead us to Feywind. As the Corners of the Circle protected the stone before, he was a lead in how to protect it again.
+  - note: We tried to find Mirt from the Harpers to discuss what to do, to no avail. Around the same time, Chomsky received a package from Ordnar, in which there was a journal belonging to Feywind.
+  - note: The journal contained a spell which Hilde (Ordnar's mother) believed may lead us to Feywind. As the Corners of the Circle protected the stone before, he was a lead in how to protect it again.
   - note: We discovered the spell was a teleportation spell, and so took it to Thorgen. Who opened a portal, and the Bishops entered.
   - note: When getting through, street lake lady Night Parade new prtal
   - note: Restful Lily, chill out time? Water bish, no trust, ander detect, fiends
@@ -18,23 +19,9 @@
   - note: Silverymoon, Feywind disappears, Mirt, end.
 
 # Unfinished
-- name: The Sunless Citadel
-  description: An apple a day may keep the cleric away but an apple a year?! The inaugural Bishops outings, a bit nuts but a success all the same!
+- name: George of the...Forest?
+  description: In Triboar, we met a little gnome lad named George in the Pewter Cup Inn, wanted us to help find The Sharphorn Brothers.
   learned:
-  - note: The gang joined together at the Boar & Barley Inn, Oakhurst, when
-  - note: Old hermit loves sticks and trees
-
-# Unfinished
-- name: Helping Glowkindle (Drinking & Dragons)
-  description: Helped the little man by clearing out his vineyard cellar and then escorting him to Waterdeep
-
-# Unfinished
-- name: The Missing Apprentice
-  description: "Due to our shenanigans in Waterdeep, Volo has advised us that laying low for a while is in idea, and seeing as his apprentice has gone missing,
-  in Kvaldir, he has just the idea in how best to lay low..."
-  learned:
-  - note: "Upon approaching Kvaldir, it was clear a thick, dark mist had enveloped the lands. We met travellers leaving town, talking of strange goings on in the area."
-  - note: We blah
 
 # Unfinished
 - name: Kvaldir - In need of aid
@@ -48,8 +35,27 @@
   description: En route to Triboar/Kvaldir, we encountered a crashed caravan where we discovered Kobolds had kidnapped...
 
 # Unfinished
+- name: The Missing Apprentice
+  description: "Due to our shenanigans in Waterdeep, Volo has advised us that laying low for a while is in idea, and seeing as his apprentice has gone missing,
+  in Kvaldir, he has just the idea in how best to lay low..."
+  learned:
+  - note: "Upon approaching Kvaldir, it was clear a thick, dark mist had enveloped the lands. We met travellers leaving town, talking of strange goings on in the area."
+  - note: We blah
+
+# Unfinished
 - name: Finding Fancy Fluhne
   description: We saved Volo's lover!
+
+# Unfinished
+- name: Helping Glowkindle (Drinking & Dragons)
+  description: Helped the little man by clearing out his vineyard cellar and then escorting him to Waterdeep
+
+# Unfinished
+- name: The Sunless Citadel
+  description: An apple a day may keep the cleric away but an apple a year?! The inaugural Bishops outings, a bit nuts but a success all the same!
+  learned:
+  - note: The gang joined together at the Boar & Barley Inn, Oakhurst, when
+  - note: Old hermit loves sticks and trees
 
 # Unfinished
 - name: Simon Says; drink this bottle. (Drinking & Dragons)
