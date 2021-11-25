@@ -13,38 +13,39 @@
 - name: Xoblob
   description: An old little chap with an odd little store. Got us a book on ciphers we need to return, and a petrified mouse that just won't quit.
 
-- name: Maxime [DECEASED]
-  description: A talking mare! Not a mayor! By the time we realised this, it was perhaps too late. The Harpers wanted us to find out the intel that Maxime knew about a Zentharim agent, named the Red Wizard?
-
-- name: Pierce
-  description: 
-
 - name: Thorgan Gorgad (?)
   description: Wine merchant with portals to pocket dimensions - a friend worth having!
 
-- name: The Black Viper
-  description: 
-
-- name: Amalia Cassalantern
-  description:
-
-- name: Yaggra
-  description: 
-
-- name: Jallister
-  description: Hubba hubba
-
-- name: Dorren
-  description: 
-
-- name: Oscar Windflower
-  description: Carpenter's guild fellow.
-
-- name: Gaxly Ruddderbust
-  description: Editor of the Waterdeep Wazoo
+- name: Maxime [DECEASED]
+  description: A talking mare! Not a mayor! By the time we realised this, it was perhaps too late. The Harpers wanted us to find out the intel that Maxime knew about a Zhentarim agent, named the Red Wizard?
 
 - name: Jakob Helmfoot
   description: Poor wee bastard that Jonathan terrorised, likely leading us to leave Waterdeep to lay low.
+
+- name: Pierce
+  description: Our last lead in the case of the talking mare, he worked for Jakob and was noted to be with Maxime when she never returned...
+
+- name: The Black Viper
+  description: An infamous thief returned? Story goes The Black Viper was around fifty years back, and thought to be a sister in the Cassalantern family - though they are a noble human family, timeline might not stack up. Rumoured to have suffered a burn on her face and wears a mask to conceal it.
+
+- name: Amalia Cassalantern
+  description: Rumoured sister of The Black Viper; still to go knocking on their door...
+
+- name: Yaggra Stonefist
+  description: Half orc lady that has been rubbed the wrong way with the Xanathar's Guild. Helped us with a lead to finding where the Xanathar's took Fluhne - the sewers!
+
+- name: Jallister
+  description: Friend of Yaggra, a handsome chap 
+
+- name: Dorren
+  description: Interior decorator who did a stand up job of Trollskull manor!
+
+- name: Oscar Windflower
+  description: Carpenter's guild fellow who helped us get Trollskull manor back into its glory days.
+
+- name: Gaxly Rudderbust
+  description: Editor of the Waterdeep Wazoo - lead suspect in the curious case of 'Who is a prick?'
+
 
 - name: Simon Sparkly
   description: Tinker? Tailor? Sailor? Spy?

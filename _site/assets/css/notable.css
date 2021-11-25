@@ -20,11 +20,13 @@ body { background: url("/assets/images/BBB_travel_3.jpg"); background-size: 100%
 
 .discord { width: 35px; height: 35px; }
 
-.sheets { width: 35px; height: 35px; }
+.sheets { width: 35px; height: 35px; text-decoration: none; }
 
-.discord { width: 35px; height: 35px; }
+.discord { width: 35px; height: 35px; text-decoration: none; }
 
-.lute { width: 30px; height: 30px; }
+.lute { width: 30px; height: 30px; text-decoration: none; }
+
+hr { display: block; height: 1px; border: 0; border-top: 1px solid rgba(231, 198, 9, 0.5); margin: 1em 0; padding: 0; }
 
 .container { margin: auto; width: 60%; }
 
@@ -62,9 +64,9 @@ td:first-child { border-left: none; border-bottom: none; }
 
 td:last-child { border-right: none; border-bottom: none; }
 
-.td1 { width: 180px; text-align: left; color: gold; font-weight: 300; }
+.td1 { width: 180px; text-align: left; color: gold; font-weight: 300; font-family: 'Kaisei Tokumin'; }
 
-.td1_dead { width: 180px; text-align: left; color: red; font-weight: 300; }
+.td1_dead { width: 180px; text-align: left; color: red; font-weight: 300; font-family: 'Kaisei Tokumin'; }
 
 .td2 { width: 100%; text-align: justify; }
 

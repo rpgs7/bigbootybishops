@@ -20,11 +20,13 @@ body { background: url("/assets/images/BBB_travel_3.jpg"); background-size: 100%
 
 .discord { width: 35px; height: 35px; }
 
-.sheets { width: 35px; height: 35px; }
+.sheets { width: 35px; height: 35px; text-decoration: none; }
 
-.discord { width: 35px; height: 35px; }
+.discord { width: 35px; height: 35px; text-decoration: none; }
 
-.lute { width: 30px; height: 30px; }
+.lute { width: 30px; height: 30px; text-decoration: none; }
+
+hr { display: block; height: 1px; border: 0; border-top: 1px solid rgba(231, 198, 9, 0.5); margin: 1em 0; padding: 0; }
 
 #aboutgroup title_test { margin-top: 242px; color: whitesmoke; font-family: 'Kaisei Tokumin'; font-weight: 400; left: 20%; font-size: 28px; text-decoration: none; text-align: center; }
 
