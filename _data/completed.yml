@@ -17,16 +17,18 @@
   - note: Travel to Silverymoon, a fight with ogres en route
   - note: Silverymoon, Feywind disappears, Mirt, end.
 
-
+# Unfinished
 - name: The Sunless Citadel
   description: An apple a day may keep the cleric away but an apple a year?! The inaugural Bishops outings, a bit nuts but a success all the same!
   learned:
   - note: The gang joined together at the Boar & Barley Inn, Oakhurst, when
   - note: Old hermit loves sticks and trees
-  
+
+# Unfinished
 - name: Helping Glowkindle (Drinking & Dragons)
   description: Helped the little man by clearing out his vineyard cellar and then escorting him to Waterdeep
 
+# Unfinished
 - name: The Missing Apprentice
   description: "Due to our shenanigans in Waterdeep, Volo has advised us that laying low for a while is in idea, and seeing as his apprentice has gone missing,
   in Kvaldir, he has just the idea in how best to lay low..."
@@ -34,21 +36,26 @@
   - note: "Upon approaching Kvaldir, it was clear a thick, dark mist had enveloped the lands. We met travellers leaving town, talking of strange goings on in the area."
   - note: We blah
 
+# Unfinished
 - name: Kvaldir - In need of aid
   description: A quest to find what's causing the mist, and to find their king, Lodar.
   learned:
   - note: Hungry frogs eat gnomes
   - note: Old hermit loves sticks and trees
 
+# Unfinished
 - name: The Crashed Caravan
   description: En route to Triboar/Kvaldir, we encountered a crashed caravan where we discovered Kobolds had kidnapped...
 
+# Unfinished
 - name: Finding Fancy Fluhne
   description: We saved Volo's lover!
 
+# Unfinished
 - name: Simon Says; drink this bottle. (Drinking & Dragons)
   description: An apple a day may keep the cleric away but an apple a year?! The inaugural Bishops outings, a bit nuts but a success all the same!
 
+# Unfinished
 - name: Pocket Dimensions (Drinking & Dragons)
 
 

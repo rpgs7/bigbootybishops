@@ -1,5 +1,5 @@
 ---
-name: Kvaldir
+name: Kvaldir and Triboar
 ---
 
 <table>

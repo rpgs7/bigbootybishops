@@ -1,27 +1,41 @@
+# Unfinished
 - name: Safeguarding the Stone
   description: With the Bensarean Stone now in the vault of The Harpers in Silverymoon....studied library found thangs
   learned:
   - note: High Forest time
   - note: Weeee
 
-- name: Bits and Bobs
-  description: Little niggles still not ironed out...
-  learned:
-  - note: We really should get that cipher book back to Xoblob...
-  - note: The Gagging Frog isn't going to run itself!
-  - note: Glitter (Tiefling) and Gorba (Dragonborn) ran off when we were at the Harvest festival. Glitter had already agreed a fee to bring him safely to Waterdeep for 500g - he mentioned he was a member of the Jeweller's Guild in Waterdeep...
-
 - name: A Talking Mayor?
   description: Maxime! She is no longer with us, and the trail has gone somewhat cold with only one lead remaining - Pierce.
 
+# Unfinished
 - name: The Black Viper
   description: The return of the notorious thief or a copycat?
   learned:
   - note: Hello! We learned the thief likes to steal from houses using the window.
   - note: We also learned that...
 
+# Unfinished
 - name: The Jackpot
   description: It is known that the former Open Lord of Waterdeep stole 500,000g. What is not known is where he (Lord Neverember) and the gold is now...
   learned:
   - note: Hello! We learned the thief likes to steal from houses using the window.
   - note: We also learned that...
+
+- name: Joran - The Mayor's Mate
+  description: The mayor of Triboar (an actual mayor this time!), who we begrudgingly/regrettably/happily (depends who you ask) helped, made mention of Joran Newmont in Waterdeep - who may have work for us should we wish to pursue it.
+  learned:
+  - note: All we have is a name so far, never invesigated seeing as we have bigger fish to fry/eviler stones to throw...
+
+- name: Bits and Bobs
+  description: Little niggles still not ironed out...
+  learned:
+  - note: We really should get that cipher book back to Xoblob...
+  - note: Glitter (Tiefling) and Gorba (Dragonborn) ran off when we were at the Harvest festival. Glitter had already agreed a fee to bring him safely to Waterdeep for 500g - he mentioned he was a member of the Jeweller's Guild in Waterdeep...
+
+- name: The Gagging Frog
+  description: Business deals and promises not yet fulfilled...
+  learned:
+  - note: The Gagging Frog isn't going to run itself!
+  - note: In Kvaldir, we struck a potential deal with The Velvet Circus - Tamarond, the half elf lady said they perform at The Yawning Portal and would be keen for The Gagging Frog with pay simply being upkeep and good food/drink!
+  - note: The bookshop around the corner, "Bookwyrm's Treasure", we promised the owner a free drink upon its opening!

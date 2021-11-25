@@ -46,9 +46,16 @@
 - name: Gaxly Rudderbust
   description: Editor of the Waterdeep Wazoo - lead suspect in the curious case of 'Who is a prick?'
 
-
 - name: Simon Sparkly
   description: Tinker? Tailor? Sailor? Spy?
+
+- name: Balthazar
+  description: Creepy old fella, long fingernails and ________
+
+- name: Joran Newmont
+  description: Supposedly could have work for us in Waterdeep, so says the unscrupulous mayor of Triboar...
+
+
 
 - name: Jonathan
   description: Devil man. Creator of chaos and the end times. Badness. Misery. OH NO.
