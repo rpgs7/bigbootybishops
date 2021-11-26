@@ -1,26 +1,57 @@
-# Unfinished
 - name: Safeguarding the Stone
-  description: With the Bensarean Stone now in the vault of The Harpers in Silverymoon....studied library found thangs
+  description: With the Bensarean Stone now in the vault of The Harpers in Silverymoon, we set out to find more Umbrilium; the material that acted as a magical barrier protecting the stone.
   learned:
-  - note: High Forest time
-  - note: Weeee
+  - note: With the Bensarean stone locked away in The Harpers' vault; Mirt allowed us to do some reseach at night in the college - seeking information on Umbrilium.
+  - note: Tilion had recalled a story from her schooling of a shipment of Umbrilium that left was bound for Neverwinter, which never arrived...
+  - note: We found four interesting items;
+  - note: 1) An old book (400 years old) telling of The Lost Peaks in The High Forest - where a Dwarven clan resided and found unusual gems in the SW entrance of the SE peak.
+  - note: 2) A ledger (400 years old) with the purchase order from the "Silver Docks Trading Company", ordering a shipment of "unusual ore" westward to the Mage Guild in Neverwinter from The High Forest.
+  - note: 3) A journal from "Losander" (?) (100-200 years old) detailing a dwarven kingdom where the place was littered with dead - succumbed to disease, the settlement was in the lost kingdom in The Lost Peaks (Durgedding clan?)
+  - note: 4) A poem from a paladin - unusual prose which talks of rescuing a merchant where rivers meet to the west and a forest to the north. They thought they'd fight bandits instead they met a great darkness. The only survivor was a wizard from the coast.
+  - note: We decide The Lost Peaks are out current best lead, gear up and head south, not before Barra steals a horse and names it Barra.
+  - note: Local young lads try to steal our horses whilst we camp, Tilion gaves them an earful and a fright to last.
+  - note: We continue south, through Everlund, to Olestin's Hold where we stable the horses. We are set the task of bringing the head of an orc shaman before continuing to Blazingdell, where we meet Borak - a ranger we employ to take us to The Lost Peaks.
+  - note: We hear of increasing orc attacks in the forest, and not before long we encounter a raiding party with a prisoner (not long after finding a dead ranger), we slay the orcs (mainly in their sleep) and free the prisoner, Glonn.
+  - note: Glonn explains he and his friend are off to meet the druids of the forest to get help with their cursed village to the east. We bring him along to keep him safe for now.
+  - note: Borak and Glonn leave to try and reach the druid meeting place after successfully leading us to The Lost Peaks.
+  - note: We ascend and find orc guards, who we ambush after Tilion disguises as an orc that captured Chomsky, and head into the large mouth of the mountain...
 
 - name: A Talking Mayor?
   description: Maxime! She is no longer with us, and the trail has gone somewhat cold with only one lead remaining - Pierce.
-
-# Unfinished
-- name: The Black Viper
-  description: The return of the notorious thief or a copycat?
   learned:
-  - note: Hello! We learned the thief likes to steal from houses using the window.
-  - note: We also learned that...
+  - note: Our first meeting with Mirt! After Tilions recives an invitation to the opera, we don our fanciest and have a swell night. Mirt wants Tilion to join, and would like us to investigate a talking mare named Maxime.
+  - note: The Harpers believe Maxime has knowledge of illicit Zhentarim dealing, involving smuggling in someone known as The Red Wizard - Ezlan Bezant is the name we later find out.
+  - note: We try Hemmerem's Stables first, Chomsky sneaks upstairs and sneaks a peek of the ledger - discovering Bairn's Company rented Maxime on the 18th...
+  - note: We speak to Bairn and he suggests Maxime should be returning "tonight", after being used for a job on Golden Serpent Street at the Helmfast Estate.
+  - note: After Maxime doesn't show - we question Jakob Helmfast, who tells us he hasn't dealt with Bairn's company, but his servant, Pierce Jargot has.
+  - note: Ander heads to bed and things go awry. Jakob heads out with a beautiful lady, and although we hide, he spots Bren and is spooked, heading back inside.
+  - note: Enter Jonathan (Barra disguise). Who proceeds to interrogate Jakob after breaking and entering and threatening the poor chap. We find out Pierce was let go a while ago, but might be able to find him in the Dock Ward.
+  - note: Guards have been called, and the gang improv a ruse to distract. Chomsky darts past the guards yelling, Tilion plays along as a mugging victim. Bren convinces guards to chase Chomsky, who had fled into the night.
+  - note: We learn that Maxime has been killed, the corpse found in The City of the Dead. We later learn that Pierce had rented Maxime under the guise of Jakob...
+  - note: We head to the City of the Dead, Ander happily chatting to the guards when they appear to recognise us. Chomsky stealths out and uses Thieves Cant to find a safehouse, The Misty Beard, bringing Bren and letting Tilion know.
+  - note: Tilion conjures an illusion of Jonathan to distract the guards successfully. Meanwhile Chomsky and Bren are getting drunk and Chomsky is changing his appearance to be less obvious.
+  - note: Ander and Barra find traces of Maximes blood, but no corpse. We all meet up in the safehouse tavern.
+  - note: Volo also joins us, reveals he is in The Harpers, and suggests we need a cooling off period. His apprentice has gone missing in Kvaldir, and asks us to take this opportunity to kill two birds with one stone...
 
-# Unfinished
+- name: The Black Viper
+  description: The return of the notorious thief or an aspiring copycat?
+  learned:
+  - note: Erky Timbers comes to visit at Trollskull Manor, asking for Ander to investigate a series of robberies as a fellow cleric of Torm.
+  - note: 200g is the reward for finding the culprit, known as The Black Viper. Believed to be from noble stock. Erky points us in the direction of The Waterdeep Wazoo who have been investigating.
+  - note: The editor, Gaxly Rudderbust, tells us they suspect The Black Viper to be the sister of Amalia Cassalantern, and wears a mask to hide a facial disfigurement.
+  - note: First recent attack/theft was about half a year ago.
+  - note: Frostlily family were the most recent victims - we go to investigate. Only the study had anything missing from it. Jade/rubies, family heirloom and a brooch stolen.
+  - note: Thieves tools used on door, there is a light scratching around the lock.
+  - note: Family dog, Fenton, was queried by Chomsky, and talked of a scent of lilac was detected. The scent went over a wall. Chomsky followed to a dead end.
+  - note: Waterdeep Wazoo newest issue front page talks of The Black Viper meeting her match in The Bishops, with all our names listed...not great.
+  - note: Weeks after, in Silverymoon, Chomsky asks Mirt about The Black Viper - he thinks its just a burglar and the newspapers are making a thing of it. He tells that the "Black Viper" has struck again, breaking their pattern by stealing a relic from a temple to Tymora.
+
 - name: The Jackpot
   description: It is known that the former Open Lord of Waterdeep stole 500,000g. What is not known is where he (Lord Neverember) and the gold is now...
   learned:
-  - note: Hello! We learned the thief likes to steal from houses using the window.
-  - note: We also learned that...
+  - note: We suspect that the Xanathar's guild kidnapped Fluhne Bragmar mistaking him for Reynar Neverember - son of the Lord who stole the gold.
+  - note: After interfering with guild business - Olaf meets us in The Yawning Portal sauna and warns/threatens us to stay out of Xanathar business, a single and final warning.
+  - note: Chomsky asks Mirt about the missing money and learns The Harpers are looking into it without divulging any information and jokingly plays it off suggesting Chomsky should go after it.
 
 - name: Joran - The Mayor's Mate
   description: The mayor of Triboar (an actual mayor this time!), who we begrudgingly/regrettably/happily (depends who you ask) helped, made mention of Joran Newmont in Waterdeep - who may have work for us should we wish to pursue it.

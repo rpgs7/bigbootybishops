@@ -4,21 +4,27 @@ layout: other
 ---
 <div class = "pageTitle">
   <h1>{{ '"Have Booty, Will Travel"' }}</h1>
+  <br></br>
+  <br></br>
 </div>
 
 <div class = "container">
-  <div id = "p6">Coming soon...</div>
+  <div id = "p6">Tilíons travels have taken her through many fine places, heres a selection of her hot recommendations!</div>
   <br></br>
-  <div id = "p6">Coming soon to your favourite drinking den: Travel tales and song!</div>
+  <br></br>
+  <br></br>
+
+  <div>
+  {% for travel in site.travel %}
+    <div style="text-align:left" class = "h2">{{ travel.name }}</div>
+      <br>
+    <div style="text-align:justify" class = "p4">{{ travel.content | markdownify | newline_to_br  }}</div>
+    <br>
+    <hr/>
+    <br></br>
+  {% endfor %}
+  </div>
+
 </div>
 
 <body></body>
-
-<!-- <ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul> -->

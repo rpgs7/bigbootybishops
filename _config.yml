@@ -9,6 +9,8 @@ collections:
     output: true
   adventures:
     output: true
+  travel:
+    output: true
 
 defaults:
   - scope:
@@ -30,7 +32,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
 
 
 #url: "C:\\Users\\ryanp\\Desktop\\_coding\\Ruby\\Jekyll\\root\\"

@@ -1,7 +1,10 @@
 # Complete!
 
 - name: Durnan
-  description: Former adventurer that owns The Yawning Portal. 
+  description: Former adventurer that owns The Yawning Portal.
+
+- name: Bonnie
+  description: Our favourite barmaid from The Yawning Portal!
 
 - name: Fluhn Bragmar (?)
   description: Volo's assumed lover, whom we saved from the clutches of the Xanathar's guild, after a case of mistaken identity, for a payment of a derelict (haunted) manor that we now call home.
@@ -24,10 +27,13 @@
 - name: Maxime [DECEASED]
   description: A talking mare! Not a mayor! By the time we realised this, it was perhaps too late. The Harpers wanted us to find out the intel that Maxime knew about a Zhentarim agent, named the Red Wizard?
 
-- name: Jakob Helmfoot
+- name: Bairn
+  description: Owner of Bairn's Company, who rented Maxime for a few days.
+
+- name: Jakob Helmfast
   description: Poor wee bastard that Barra's...alter ego...terrorised, likely leading us to leave Waterdeep to lay low.
 
-- name: Pierce
+- name: Pierce Jargot
   description: Our last lead in the case of the talking mare, he worked for Jakob and was noted to be with Maxime when she never returned...
 
 - name: The Black Viper
@@ -39,8 +45,11 @@
 - name: Yaggra Stonefist
   description: Half orc lady that has been rubbed the wrong way with the Xanathar's Guild. Helped us with a lead to finding where the Xanathar's took Fluhne - the sewers!
 
-- name: Jallister
-  description: Friend of Yaggra, a handsome chap.
+- name: Jallister Silvermane
+  description: Friend of Yaggra, a handsome chap. A member of the Lord's Alliance.
+
+- name: Ezlan Bezant
+  description: The Red Wizard of Tay. Zhentarim want him for reasons unknown. This is the chap Maxime was going to know information about.
 
 - name: Simon
   description: Door.
