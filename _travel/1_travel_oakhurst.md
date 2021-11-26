@@ -2,7 +2,7 @@
 name: Oakhurst
 ---
 
-Considered as the Cusco of Faerûn, Oakhurst is an oft overlooked and maligned town with it’s own certain rustic charm. Set amongst rolling farmlands of the Crags, in the shadow of the old sawmill you are guaranteed a friendly face and no doubt a tale or too!
+Considered as the Cusco of Faerûn, Oakhurst is an oft overlooked and maligned town with it’s own certain rustic charm. Set amongst rolling farmlands of the Crags, in the shadow of the old sawmill you are guaranteed a friendly face and no doubt a tale or two!
 
 The incredibly hospitable inn, the ‘Boar and Barley’ offers up great mead and home cooked fare, and perhaps a challenge for the discerning adventurer (if you are lucky!). If you can set aside a few hours, a trip to the humble Temple of Pelor for some quiet reflection will stead you well for your onward journey. Try to head in the early morning, to catch the sunrise yoga session with local cleric Erky Timbers. 
 
