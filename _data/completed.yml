@@ -23,50 +23,68 @@
   - note: We agree to meet him at a tavern later in the day, wondering whether he'll show. He does, accompanied by Mirt, from The Harpers. Who after long discussion, we allow to safeguard the stone in their vault in the College of Lore.
   - note: Before reaching the college, we are ambushed by a wizard and a few other foes including a hired Xanathar's guild member. We win the battle but the wizard escapes; albeit injured.
 
-# Unfinished
+# Flesh Out
 - name: George of the...Forest?
   description: In Triboar, we met a little gnome lad named George in the Pewter Cup Inn, wanted us to help find The Sharphorn Brothers.
   learned:
+  - note: The townspeople weren't sure the Sharphorn brothers were all that menacing.
+  - note: We learned the mayor send people to claim their land, a dispute ended in the killing of their father.
+  - note: Unfortunately a fight broke out, resulting in the killing of two of the brother, and apprehending the third.
+  - note: We brought the third back for George's reward, Tilion tried to use Suggestion to go for exile rather than killing him, to no avail...
+
 
 # Unfinished
 - name: Kvaldir - In need of aid
-  description: A quest to find what's causing the mist, and to find their king, Lodar.
+  description: A quest to find what's causing the mist, and to find what became of their Jarl.
   learned:
-  - note: Hungry frogs eat gnomes
-  - note: Old hermit loves sticks and trees
+  - note: Inarys Peak is the source of the mist.
+  - note: Hags are awful things.
 
 # Unfinished
 - name: The Crashed Caravan
-  description: En route to Triboar/Kvaldir, we encountered a crashed caravan where we discovered Kobolds had kidnapped...
+  description: En route to Triboar/Kvaldir, we encountered a crashed caravan where we discovered Gnolls had kidnapped one of the caravan crew.
+  learned:
+  - note: Bren got himself a cursed sword.
+  - note: Bren also wanted to find out what was in the other room we missed. Or is that the curse speaking?
 
 # Unfinished
 - name: The Missing Apprentice
   description: "Due to our shenanigans in Waterdeep, Volo has advised us that laying low for a while is in idea, and seeing as his apprentice has gone missing,
   in Kvaldir, he has just the idea in how best to lay low..."
   learned:
-  - note: "Upon approaching Kvaldir, it was clear a thick, dark mist had enveloped the lands. We met travellers leaving town, talking of strange goings on in the area."
-  - note: We blah
+  - note: Upon approaching Kvaldir, it was clear a thick, dark mist had enveloped the lands. We met travellers leaving town, talking of strange goings on in the area.
+  - note: Werewolves.
+  - note: Werebears!
+  - note: Touri!!!
 
 # Unfinished
 - name: Finding Fancy Fluhne
   description: We saved Volo's lover!
+  learned:
+  - note: All a wee misunderstanding really. The Xanathar's actually wanted Reynar Neverember!
 
 # Unfinished
 - name: Helping Glowkindle (Drinking & Dragons)
   description: Helped the little man by clearing out his vineyard cellar and then escorting him to Waterdeep
+  learned:
+  - note: We learned of Feywind, and swiftly learned he is a dick.
 
 # Unfinished
 - name: The Sunless Citadel
   description: An apple a day may keep the cleric away but an apple a year?! The inaugural Bishops outings, a bit nuts but a success all the same!
   learned:
-  - note: The gang joined together at the Boar & Barley Inn, Oakhurst, when
-  - note: Old hermit loves sticks and trees
+  - note: The gang joined together at the Boar & Barley Inn, Oakhurst.
+  - note: Asked to find niece and nephew of a nice lady, they were seeking glory by finding the golden apple, that blooms once per year.
+  - note: Frogs are vile.
 
 # Unfinished
 - name: Simon Says; drink this bottle. (Drinking & Dragons)
   description: An apple a day may keep the cleric away but an apple a year?! The inaugural Bishops outings, a bit nuts but a success all the same!
+  learned:
+  - note: Who is this Simon? So many questions! Hopefully we'll meet again...
 
 # Unfinished
 - name: Pocket Dimensions (Drinking & Dragons)
-
-
+  description: Vines and wines, a killer combination.
+  learned:
+  - note: Vines and wines may break our spines but names...they also hurt.
