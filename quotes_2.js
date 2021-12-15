@@ -17,8 +17,7 @@ var quotes = [
   "\"I touch myself. To fill myself with Torm's glorious light, of course.\"",
   "Barra: I cast disguise self and make myself look like Ander and go, \"Meep meep meep meeeep meeeh!\"",
   "Tilion: \"We are merchants ourselves.\" Merchant: \"Oh really? What do you sell?\" Tilion: \"DEEZ NUTS.\"  *Tilion exits*",
-  "\"We should have kept an eye on (Gary) Glitter among the halflings...\",
-  "Bren: \"Do you ever use the word 'Nuglets'?\""
+  "\"We should have kept an eye on (Gary) Glitter among the halflings...\""
 ]
 
 //Add greeting before first change
